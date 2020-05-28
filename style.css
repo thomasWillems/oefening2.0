@@ -13,8 +13,12 @@ hr{
     background-color: white;
 }
 #last-row{
-    margin-left: 85px;
+    margin-left: 280px;
+    font-size: 20px;
 }
 #afbeelding{
-    margin-left: 58px;
+    margin-left: 75px;
+}
+li{
+    list-style-type: none;
 }
